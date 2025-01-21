@@ -48,8 +48,12 @@ With this Farsi-language website, you can create a personalized daily recitation
 
 ## 👨‍💻 Developers
 
-* [M-AMIN-B](https://github.com/m-amin-b): Front-end developer at **Phoenix Group**
-* ...
+* **Phoenix Group**
+  - As a front-end developer and UI designer at Phoenix Group, my responsibilities included:
+    - Designing and implementing all website pages
+    - Developing custom and modular components
+    - Ensuring website compatibility with various devices (Responsive Design)
+    - Optimizing website performance for fast loading
 
 ## 🤝 Contributing
 
